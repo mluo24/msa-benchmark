@@ -15,7 +15,10 @@ Note that all of these steps (and the scripts themselves) have been tested on ma
     * MAFFT
     * TODO: writeup the rest of the algorithm download
 
+    MUSCLE: Download the code from the following github repo: https://github.com/rcedgar/muscle. Go into the src directory and run make. There should be an executable file that will be generated inside of the Darwin folder called Muscle. Please make sure to have gcc installed as well so that the executable file can be run from our program. If it is not installed already, that can be done using brew install gcc@11
+
 3. Run (script) ...
+
 
 TODO: finish steps for reproducing results
 
