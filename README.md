@@ -14,6 +14,7 @@ Note that all of these steps (and the scripts themselves) have been tested on ma
     * ClustalW
     * MUSCLE: Download the code from the following GitHub repo: https://github.com/rcedgar/muscle. Go into the src directory and run `make`. There should be an executable file that will be generated inside of the `Darwin` folder called `muscle`. Please make sure to have gcc installed as well so that the executable file can be run from our program. If it is not installed already, that can be done using `brew install gcc@11` (using [homebrew](https://brew.sh/)).
     * MAFFT
+    * KALIGN: Download the tar.gz file from the following link: https://github.com/TimoLassmann/kalign/releases under minor feature update. Then, follow all of the installation instructions underneath the heading Installation in this link: https://github.com/TimoLassmann/kalign. 
     * TODO: writeup the rest of the algorithm download
 
 3. Run (script) ...
