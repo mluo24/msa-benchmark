@@ -1,0 +1,318 @@
+
+Kalign (3.3.5)
+
+Copyright (C) 2006,2019,2020,2021 Timo Lassmann
+
+This program comes with ABSOLUTELY NO WARRANTY; for details type:
+`kalign -showw'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; consult the COPYING file for details.
+
+Please cite:
+  Lassmann, Timo.
+  "Kalign 3: multiple sequence alignment of large data sets."
+  Bioinformatics (2019) 
+  https://doi.org/10.1093/bioinformatics/btz795
+
+[2022-12-17 16:46:46] :     LOG : Detected protein sequences.
+[2022-12-17 16:46:46] :     LOG : Read 21 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV30_BB30015.fasta.
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Calculating pairwise distances
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Building guide tree.
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Aligning
+[2022-12-17 16:46:46] :     LOG : Aligned 1 and 2 (len 98 125) -> path is of length: 8576
+[2022-12-17 16:46:46] :     LOG : Aligned 21 and 5 (len 132 97) -> path is of length: 8576
+[2022-12-17 16:46:46] :     LOG : Aligned 3 and 6 (len 139 105) -> path is of length: 9024
+[2022-12-17 16:46:46] :     LOG : Aligned 22 and 23 (len 132 139) -> path is of length: 9024
+[2022-12-17 16:46:46] :     LOG : Aligned 4 and 8 (len 99 145) -> path is of length: 9536
+[2022-12-17 16:46:46] :     LOG : Aligned 24 and 25 (len 139 147) -> path is of length: 9792
+[2022-12-17 16:46:46] :     LOG : Aligned 0 and 26 (len 105 151) -> path is of length: 9792
+[2022-12-17 16:46:46] :     LOG : Aligned 27 and 7 (len 151 152) -> path is of length: 12032
+[2022-12-17 16:46:46] :     LOG : Aligned 9 and 14 (len 129 148) -> path is of length: 9600
+[2022-12-17 16:46:46] :     LOG : Aligned 12 and 13 (len 129 150) -> path is of length: 9728
+[2022-12-17 16:46:46] :     LOG : Aligned 11 and 30 (len 129 150) -> path is of length: 9728
+[2022-12-17 16:46:46] :     LOG : Aligned 10 and 31 (len 128 150) -> path is of length: 9728
+[2022-12-17 16:46:46] :     LOG : Aligned 29 and 32 (len 148 150) -> path is of length: 9728
+[2022-12-17 16:46:46] :     LOG : Aligned 28 and 33 (len 186 150) -> path is of length: 12480
+[2022-12-17 16:46:46] :     LOG : Aligned 34 and 16 (len 193 643) -> path is of length: 44544
+[2022-12-17 16:46:46] :     LOG : Aligned 19 and 20 (len 636 639) -> path is of length: 41088
+[2022-12-17 16:46:46] :     LOG : Aligned 35 and 36 (len 694 640) -> path is of length: 44800
+[2022-12-17 16:46:46] :     LOG : Aligned 17 and 18 (len 639 650) -> path is of length: 41856
+[2022-12-17 16:46:46] :     LOG : Aligned 15 and 38 (len 595 652) -> path is of length: 42176
+[2022-12-17 16:46:46] :     LOG : Aligned 37 and 39 (len 698 657) -> path is of length: 45632
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.01u 00:00:00.01 Elapsed: 00:00:00.00
+>1aac_
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---DKATIPSESPFAAAEVADGAI-VV----DIAKMKYETPELHVKVGDTVTWINREAMP
+HNVHFVAG--------VLGEAALKGPMMKK----EQAYSLTFT-EA---GT-YDYHCT-P
+H--PF--MRGKVVVE------------------------------------
+>1j5c_A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------ANA---TVKM-GS----DSGALVFEPSTVTIKAGEEVKWVNNKLSP
+HNIVFAAD---GVDADTAAKLSHKGLAFAA----GESFTSTFT-E--P-GT-YTYYCE-P
+HRGAG--MVGKVVVD------------------------------------
+>PLAS_SYNP7
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------MKVLASFARRLSLFAVA
+AVLCVGSFFLSAAPASAQTVAIKM-GA----DNGMLAFEPSTIEIQAGDTVQWVNNKLAP
+HNVVVEGQ----------PELSHKDLAFSP----GETFEATFS-E--P-GT-YTYYCE-P
+HRGAG--MVGKIVVQ------------------------------------
+>PLAS_ANASO
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------MKLIAASLRRLSLAVLT
+VLLVVSSFAVFTPSASAETYTVKL-GS----DKGLLVFEPAKLTIKPGDTVEFLNNKVPP
+HNVVFDAALNPAKSADLAKSLSHKQLLMSP----GQSTSTTFP-ADAPAGE-YTFYCE-P
+HRGAG--MGGKITVAG-----------------------------------
+>1ag6_
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------VEVLL-GG----DDGSLAFLPGDFSVASGEEIVFKNNAGFP
+HNVVFDEDEIPSGVDAAKISMSEEDLLNAP----GETYKVTLT-EK---GT-YKFYCS-P
+HQGAG--MVGKVTVN------------------------------------
+>1b3i_A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------A-SVQIKM-GT----DKYAPLYEPKALSISAGDTVEFVMNKVGP
+HNVIFDKV---PA-GESAPALSNTKLAIAP----GSFYSVTLG-T--P-GT-YSFYCT-P
+HRGAG--MVGTITVE------------------------------------
+>1baw_A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------ETFTVKM-GA----DSGLLQFEPANVTVHPGDTVKWVNNKLPP
+HNILFDDKQVPGASKELADKLSHSQLMFSP----GESYEITFS-SDFPAGT-YTYYCA-P
+HRGAG--MVGKITVEG-----------------------------------
+>AZUP_RHILV
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MPLKFGLIV
+ATAALIASAASLMAADHQVQMLNK-GT----D-GAMVFEPGFLKIAPGDTVTFIPTD-KS
+HNVETFKGLIPDGV---------PDFKSKP----NEQYQVKFD-I--P-GA-YVLKCT-P
+HVGMG--MVALIQVGDNPANLEPIKIAKVPNMVRKRLDADLAQITPAQITQ
+>PLAS_SCEOB
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------MASLMRKAAVAPAKATRTTVKASASLQRV
+AQAAGVAVAGFSLALSANAANVKL-GA----DSGALVFEPATVTIKAGDSVTWTNNAGFP
+HNIVFDEDAVPAGVNAD--ALSHDDYLNAP----GESYTAKFD-TA---GE-YGYFCE-P
+HQGAG--MVGKVIVQ------------------------------------
+>1cuo_A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASCETTVTSGDTMTYSTRSISVPA-SC----AEFTVNFEHKGHMPKTGMGHNWVLAKSAD
+VGDVAKEGAHAGADNNFVTPGDKRVIAFTPIIGGGEKTSVKFKVSALSKDEAYTYFCSYP
+GHFSM--MRGTLKLEE-----------------------------------
+>AZU1_METJ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AGCSVDVEANDAMQYNTKNIDVEK-SC----KEFTVNLKHTGSLPKNVMGHNLVITKTAD
+FKAVMNDGVAAGEAGNFVKAGDARVVAHTKLVGGGEKDSVKVDVSKLAAGEKYTFFCSFP
+GHATM--MRGTVTVK------------------------------------
+>AZU2_ALCXX
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AQCEATVESNDAMQYNVKEIVVDK-SC----KQFTMHLKHVGKMAKVAMGHNLVLTKDAD
+KQAVATDGMGAGLAQDYVKAGDTRVIAHTKVIGGGESDSVTFDVSKIAAGENYAYFCSFP
+GHWAM--MKGTLKLGS-----------------------------------
+>AZU1_ALCXX
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AECSVDIAGNDGMQFDKKEITVSK-SC----KQFTVNLKHPGKLAKNVMGHNWVLTKQAD
+MQGAVNDGMAAGLDNNYVKKDDARVIAHTKVIGGGETDSVTFDVSKLAAGEDYAYFCSFP
+GHFAL--MKGVLKLVD-----------------------------------
+>AZUR_BORPE
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------MFKQVLGGMALMAAFSAPVLA
+AECSVDIAGTDQMQFDKKAIEVSK-SC----KQFTVNLKHTGKLPRNVMGHNWVLTKTAD
+MQAVEKDGIAAGLDNQYLKAGDTRVLAHTKVLGGGESDSVTFDVAKLAAGDDYTFFCSFP
+GHGAL--MKGTLKLVD-----------------------------------
+>AZUR_METFL
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------MRNQLLFALAFIPTIAA--AA
+SNCEVNVSAGDSMAFNTRSIDIPK-SC----KEFTVNFAHTGTASKAGMGHNWVLARSAD
+VNDLAKAGVEAGIDKNFIPPNDPRVLAYTPLVGGGEKTSVTFKPSILKDGESYSFYCSFA
+FHSFM--MRGTVKLVD-----------------------------------
+>1fwx_A
+------------------------------------------------------------
+--ASADGSVAPGQLDDYYGFWSSGQSGEMRILGIPSMRELMRVPVFNRCSATGWGQTNES
+VRIHERTMSERTKKFLAANGKRIHDNGDLHHVHMSFTEGKYDGRFLFMNDKANTRVARVR
+CDVMKCDAILEIPNAKGIHGLRPQKWPRSNYVFCNGEDETPLVNDG-----TNMEDVANY
+VNVFTAVDADKWEVAWQVLVSGNLDNCDADYEGKWAFSTSYNSEKGMTLPEMTAAEMDHI
+VVFNIAEIEKAIAAGDYQELNG--VKVVDGRKEAS----SLFTRYIPIANNPHGCNMAPD
+KKHLCVAGKLSPTVTVLDVTRFDAVFYENA-DPRSAVVAEPELGLGPLHTAFDGRGNAYT
+SLFLDSQVVKWNIEDAIRAYAGEK-VDPIKDKLDVHYQPGHLKTVMGETLDATNDWLVCL
+SKFSKDRFLNVGPLKPENDQLIDISGDKMVLVHDGPTFAEPHDAIAVHPSILSDIK--SV
+WDRNDPMWAETRAQAEADGVDIDNWTEEVIRDGNKVRVYMSSVAPSFSIESFTVKEGDEV
+TVIVTNLDEIDDLTHGFTMGNYGVAMEIGP----QMTSSVTFV-AANP-GV-YWYYCQWF
+CHALHMEMRGRMLVEPKEA--------------------------------
+>NOSZ_ALCEU
+MSKEKASIGNGPGGIGRRQFLGTAALAGLAGVVACT--DKGAAPAAAAVGAPASGAHGAA
+HGAGASVHLKPGELDTYYGLWSGGHTGDMRVLGLPSGREILRIPCFVPDALVGWGITNES
+KKVMGARPDGTL----------RYTVADTHHTHASYKDGNYDGRYAWVNDKINSRIARIR
+LDYFICDKITELPNVQGFHGIFPDKRDPVDTKINYTTRVFCGGEFGIPLPSAPTEDAGKY
+RSLFTCVDAETMAVRWQVLIDGNCDLVATSYDGKLAATNQYNTENGAHFEDMMSAERDAC
+VFFNIARIEAAVQAGKFKTYGDSKVPVVDGTQAANKDPKTALTAYVSVPKNPHGVNASPD
+QKYFICAGKLSPTATVIELSRVLGWFDGKQEKLDDAIVAEVELGLGPLHTAFDGRGNAYT
+TLFLDSQLVKWNLDAAIKFHKGDKNAKYVVDRLDLQYQPGHVNASQSETVAADGKYLAVG
+CKFSKDRFLPVGPLHPENEQLIDISGQKMVLMADHPVRGEPHDFIIFKRELVRPKQVYAL
+DDFPLAIKDPKESGVFRNGRKVTV-KI----TSQAPAFSLREFKLKKGDEVTLILTNLDK
+IEDLTHG---------FAIPKYNVNFIVNP----QETASVTFV-ADKP-GV-FWCYCTHF
+CHALHLEMRTRMIVEA-----------------------------------
+>NOSZ_BRUME
+MTEETRKSQLSRRQLLGTSAFVAAAGASGLGGALL----AGSSETALAAGAAKGGMSP--
+-------EVKPGELDEYYVFFSSGQCGEVRIVGLPSMRELMRIPVFNRDSATGWGLTNES
+RKVLTEGLLPQDREFLKDRGD-IFLNGDLHHPHPSFTDGTYDGRYLYANDKANTRVCRIR
+LDVMKCDKIIQLPNQHTVHGLRVQKYPKTGYVFCNGEDRVPIPNDG-----SHLNDVKQY
+HAIFTAVDGETMKVAWQVMVDGNLDNVDCDYXGKYAFSTCYNSEEGTTLAEMMSSEQDWI
+VVFNLKRIEEAVANGDFKEMNG--VPVIDGRH--G----SKYTRYIPVPNSPHGINTALD
+GIHVVANGKLSPTVTVFDVRKFDDLFDDKI-KPRDAVVAEPELGLGPLHTAYDDKGNAYT
+TLFIDSQICKWNIEDAKRAFKGEK-VDPIRQKLDVHYQPGHNHSSMGQTKEVDGKWLISL
+NKFSKDRYLNVGPLKPENDQLIDISGDKMVIVHDGPSFAEPHDATIVHRSKINPV---SF
+WSREDPFFADAVAQAKADGLDLME-ANEVVRDGNKVRVYMTSSAPAFGLTEFTVQQDDEV
+TVYVTNIDEIEDLTHGFAIVNYGVNMEVAP----QATASVTFK-ASKP-GV-WWYYCSWF
+CHAMHMEMQGRMLVEPKKA--------------------------------
+>NOSZ_BRAJA
+MSDSDNIKGVSRRTLLGTTA--AAAGVGLAGGAVVTKDGAGFVSTADAQTKSAAPKAPPA
+RPAVQKTEVAPGELDEYYVFFSSGQSGEMRIIGLPSMRELMRVPVFNRCSATGWGQTNES
+LKVLTEGMQPATREFLKNRGG-TFMNGDLHHPHVSFTDGTYDGRYAFMNDKANSRVARVR
+LDVMKCDKIIELPNQHTVHGLRLQKYPRTGYVFCNGEDGVPLPNDG-----KVLDNPKEY
+HSIFTALDGDTMKVAWQVMVSGNLDNVDSDYQGKYCFSTCYNAEEGVTLAEMTANEQDWV
+VIFNLKRIEEAVKKGDFKEMNG--VPVIDGRK--G----SPYTRYVPVSNNPHGMNTAPD
+GIHIVAAGKLSPTVTVMDVRLFDQLFDDKI-KPRDVVVAEPELGLGPLHTAYDGKGNAYT
+TLFLDSQVVKWNIDLAKRAFKGEK-VDPIIQKLDVHYQPGHNHSSMGQTKEADGKWLISL
+NKFSKDRFLNVGPLKPENDQLIDISGDQMKLVHDGPSFAEPHDATIVHRSKINPI---SI
+WDRADPMFADAVKQAKADGINLEA-DSKIIRDGNKVRVYMTSTAPAFGLEQFQVKQGDQV
+TVYITNIDAVEDLTHGFCIVNYGIQMEVAP----MATASVSFS-ADKA-GV-YWYYCSWF
+CHAMHMEMKGRMFVEPKSV--------------------------------
+>NSZ1_PSEAE
+MSDDT-KS---PH--EETHGLNRRGFLGASALTGAA--ALVGASALGSAVVGREARAAGK
+GE-RSKAEVAPGELDEYYGFWSGGHSGEVRVLGVPSMRELMRIPVFNVDSATGWGLTNES
+KRVLG----DSA----------RFLNGDCHHPHISMTDGKYDGKYLFINDKANSRVARIR
+LDVMKCDRIVTIPNVQAIHGLRLQKVPHTRYVFCNAEFIIPHPNDG---STFDLSGDNAF
+-TLYNAIDAETMEVAWQVIVDGNLDNTDMDYSGRFAASTCYNSEKAVDLGGMMRNERDWV
+VVFDIPRIEAEIKAKRFVTLGDSKVPVVDGRRKDGKD--SPVTRYIPVPKNPHGLNTSPD
+GKYFIANGKLSPTCTMIAIERLGDLFAGKLADPRDVVVGEPELGLGPLHTTFDGRGNAYT
+TLFIDSQLVKWNLADAVRAYKGEK-VDYIRQKLDVQYQPGHNHATLCETSEADGKWIVVL
+SKFSKDRFLPTGPLHPENDQLIDISGEEMKLVHDGPTFAEPHDCILARRDQIKTR---KI
+WDRKDPFFAETVKRAEKDGIDLMK-DNKVIREGNKVRVYMVSMAPSFGLTEFKVKQGDEV
+TVTITNLDEIEDVTHGFVMVNHGVCMEISP----QQTSSITFV-ADKP-GV-HWYYCSWF
+CHALHMEMCGRMLVEKA----------------------------------
+>NOSZ_PSEFL
+MSDKKDQV---PGAVEAPRGVSRRSFLGTGAVTGAV---LAGATALGAGTFTRESWAAAA
+KEAKSKIHVGPGELDEYYGFWSGGHQGEVRVLGVPSMRELMRIPVFNVDSATGWGLTNES
+KRILG----DSA----------KYQNGDCHHPHISMTDGKYDGKYLFINDKANSRVARIR
+LDIMKCDKILTVPNVQAIHGLRLQKVPYTKYVFANAEFVIPHPNDG---HTFDLQDKNSF
+-TMFNAIDAEKMEMAFQVIVDGNLDNSDADYTGKYAASTCYNSEKAYDLGGMMRNERDWV
+VVFNILRIEAAIKAGKFITLDGSKVPVVDGRKTDGKD--SEFTRYIPVPKNPHGLNTSSD
+GKYFIANGKLSPTVSMIAIDRLDDLFNDRYKDPREVIVAEPELGLGPLHTTFDGRGNAYT
+TLFIDSQVVKWNMDEAIRAYKGEK-VNYIKQKLDVQYQPGHNHASLTETSEADGKWLVVL
+CKFSKDRFLPTGPLHPENDQLIDISGEEMKLVHDGPAFAEPHDCILARRDQIKTQ---KI
+WNRNDPFFADTVALAKKDGINLET-DNKVIRDGNKVRVYMTSMAPAYGLTEFTVKQGNEV
+TVTITNIDQIEDVSHGFVMTNHGASMEISP----QQTSSITFT-ADKA-GL-HWYYCSWF
+CHALHMEMVGRMLVEKA----------------------------------
