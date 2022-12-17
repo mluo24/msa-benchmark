@@ -1,0 +1,80 @@
+
+Kalign (3.3.5)
+
+Copyright (C) 2006,2019,2020,2021 Timo Lassmann
+
+This program comes with ABSOLUTELY NO WARRANTY; for details type:
+`kalign -showw'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; consult the COPYING file for details.
+
+Please cite:
+  Lassmann, Timo.
+  "Kalign 3: multiple sequence alignment of large data sets."
+  Bioinformatics (2019) 
+  https://doi.org/10.1093/bioinformatics/btz795
+
+[2022-12-17 16:46:46] :     LOG : Detected protein sequences.
+[2022-12-17 16:46:46] :     LOG : Read 8 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11002.fasta.
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Calculating pairwise distances
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Building guide tree.
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 16:46:46] :     LOG : Aligning
+[2022-12-17 16:46:46] :     LOG : Aligned 0 and 6 (len 58 134) -> path is of length: 8832
+[2022-12-17 16:46:46] :     LOG : Aligned 8 and 7 (len 136 80) -> path is of length: 9024
+[2022-12-17 16:46:46] :     LOG : Aligned 9 and 2 (len 139 83) -> path is of length: 9024
+[2022-12-17 16:46:46] :     LOG : Aligned 1 and 3 (len 193 52) -> path is of length: 12480
+[2022-12-17 16:46:46] :     LOG : Aligned 11 and 4 (len 193 83) -> path is of length: 13248
+[2022-12-17 16:46:46] :     LOG : Aligned 10 and 12 (len 139 205) -> path is of length: 17088
+[2022-12-17 16:46:46] :     LOG : Aligned 13 and 5 (len 265 101) -> path is of length: 17536
+[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+>1abo_A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------NLFVALYDFVASGDNTLSITKGEKLRVLGYNHN-------GEW-CE
+AQT---KNGQGWVPSNYITP-VNS------------------------------------
+--------------------------------
+>1ycs_B
+PLALLLDSSLEGEFDLVQRIIYEVDDPSLPNDEGITALHNAVCAGHTEIVKFLVQFGVNV
+NAADSDGWTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQ
+FLYGVQEKMGIMNKGVIYALWDYEPQNDDELPMKEGDCMTIIHREDE-------DEIEWW
+WAR--LNDKEGYVPRNLL----GLYP----------------------------------
+--------------------------------
+>1pht_
+------------------------------------------------------------
+------------------------------------------------------------
+----------AEG-YQYRALYDYKKEREEDIDLHLGDILTVNKGSLV-------ALGFSD
+GQE-ARPEEIGWL-NGYNET-TGERGDFPGTYVEYIGRKKISPP----------------
+--------------------------------
+>1ihv_A
+------------------------------------------------------------
+--------------------------------------------------------MIQN
+FRVYYRDSRDPVWKGPAKLLWKGE----GAVVIQDNSDIKVVPRRKA-------KIIRD-
+------------------------------------------------------------
+--------------------------------
+>1bb9_
+------------------------------------------------------------
+------------------------------------------------------------
+--TTGRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNP-------EEQDEG
+WLM--GVKESDWNQHKELEKCRGVFPENFTERVQ--------------------------
+--------------------------------
+>1hjd_A
+------------------------------------------------------------
+-----------------------------------------------------------A
+DRKLCADQECSHPISMAVALQDYMAPDCRFLTIHRGQVVYVFSKLKGRGRLFWGGSVQGD
+YYG-DLAARLGYFPSSIVREDQTLKPGKVDVKTDKWDFYCQ-------------------
+--------------------------------
+>1ov3_A
+------------------------------------------------------------
+------------------------------------------------------------
+-----LGSPEFIILQTYRAIADYEKTSGSEMALSTGDVVEVVEKSES-------GWWFCQ
+MKA---K--RGWIPASFLEP-LDSPDETEDPEPNYAGEPYVAIKAYTAVEGDEVSLLEGE
+AVEVIHKLLDGWWVIRKDDVTGYFPSMYLQKS
+>1ue9_A
+------------------------------------------------------------
+------------------------------------------------------------
+------GSSGSSG-EIAQVTSAYVASGSEQLSLAPGQLILILKKNTS-------GWWQGE
+LQARGKKRQKGWFPASHVKL-LGPSSE-RASGPS-SG-----------------------
+--------------------------------
