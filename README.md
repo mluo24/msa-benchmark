@@ -15,7 +15,7 @@ Note that all of these steps (and the scripts themselves) have been tested on ma
 3. Download the libraries for the following algorithms (they all need to be the command line versions):
     * ClustalW
     * MUSCLE: Download the code from the following GitHub repo: https://github.com/rcedgar/muscle. Go into the src directory and run `make`. There should be an executable file that will be generated inside of the `Darwin/` folder called `muscle`. Run the executable inside the folder to make sure it works (`./muscle -h` after switching to the directory for example).
-    * MAFFT
+    * MAFFT: Download the MAFFT program from the following link: https://mafft.cbrc.jp/alignment/software/
     * KALIGN: Download the tar.gz file from the following link: https://github.com/TimoLassmann/kalign/releases under minor feature update. Then, follow all of the installation instructions underneath the heading "Installation" in this link: https://github.com/TimoLassmann/kalign. 
     * MSAProbs: Download MSAProbs-0.9.7.tar.gz from the link "MSAProbs-MPI v0.9.7" at https://msaprobs.sourceforge.net/homepage.htm#downloads. Unzip it, go to the folder `MSAProbs/` and edit the Makefile argument `CXX =` to say `g++-12`. Then, run `make` to compile the code. There should be an executable generated within that folder called `msaprobs` which can be run with `./msaprobs`. 
     * TODO: writeup the rest of the algorithm download
