@@ -1,0 +1,40 @@
+
+Kalign (3.3.5)
+
+Copyright (C) 2006,2019,2020,2021 Timo Lassmann
+
+This program comes with ABSOLUTELY NO WARRANTY; for details type:
+`kalign -showw'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; consult the COPYING file for details.
+
+Please cite:
+  Lassmann, Timo.
+  "Kalign 3: multiple sequence alignment of large data sets."
+  Bioinformatics (2019) 
+  https://doi.org/10.1093/bioinformatics/btz795
+
+[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
+[2022-12-17 17:06:16] :     LOG : Read 4 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11001.fasta.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Building guide tree.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Aligning
+[2022-12-17 17:06:16] :     LOG : Aligned 0 and 2 (len 83 91) -> path is of length: 6080
+[2022-12-17 17:06:16] :     LOG : Aligned 1 and 3 (len 85 86) -> path is of length: 5760
+[2022-12-17 17:06:16] :     LOG : Aligned 4 and 5 (len 93 88) -> path is of length: 6272
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+>1aab_
+---GKGDPKKPRGKMSSYAFFVQTSREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKG
+KFEDMAKADKARYEREMKTYIPPKGE----------
+>1j46_A
+------MQDRVKRPMNAFIVWSRDQRRKMALENPRMR-NS-EISKQLGYQWKMLTEAEKW
+PFFQEAQKLQAMHREKYPNYKYRP---RRKAKMLPK
+>1k99_A
+MKKLKKHPDFPKKPLTPYFRFFMEKRAKYAKLHPEMS-NL-DLTKILSKKYKELPEKKKM
+KYIQDFQREKQEFERNLARFREDHPDLIQNAKK---
+>2lef_A
+--------MHIKKPLNAFMLYMKEMRANVVAESTLKE-SA-AINQILGRRWHALSREEQA
+KYYELARKERQLHMQLYPGWSARDNYGKKKKRKREK

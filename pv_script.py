@@ -11,12 +11,13 @@ import os
 working_directory = os.getcwd()
 for i in range(14, 18):
   input = "/input_alignments/RV30_BB300%d.fasta' > '" % i
-  os.system("kalign -i '" + working_directory + input + working_directory + "/kalign_output.fasta'" + str(i))
+  output = "/output_alignments/kalign_output/kalign_output.fasta'" + str(i)
+  os.system("kalign -i '" + working_directory + input + working_directory + output)
 
 for j in range(1, 6): 
-    print(j)
     input = "/input_alignments/RV11_BB1100%d.fasta' > '" % j 
-    os.system("kalign -i '" + working_directory + input + working_directory + "/kalign_output.fasta'" + str(j))
+    output = "/output_alignments/kalign_output/kalign_output.fasta'" + str(j)
+    os.system("kalign -i '" + working_directory + input + working_directory + output)
 
 
 print(os.getcwd())

@@ -14,35 +14,35 @@ Please cite:
   Bioinformatics (2019) 
   https://doi.org/10.1093/bioinformatics/btz795
 
-[2022-12-17 16:46:46] :     LOG : Detected protein sequences.
-[2022-12-17 16:46:46] :     LOG : Read 21 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV30_BB30015.fasta.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Calculating pairwise distances
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Building guide tree.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Aligning
-[2022-12-17 16:46:46] :     LOG : Aligned 1 and 2 (len 98 125) -> path is of length: 8576
-[2022-12-17 16:46:46] :     LOG : Aligned 21 and 5 (len 132 97) -> path is of length: 8576
-[2022-12-17 16:46:46] :     LOG : Aligned 3 and 6 (len 139 105) -> path is of length: 9024
-[2022-12-17 16:46:46] :     LOG : Aligned 22 and 23 (len 132 139) -> path is of length: 9024
-[2022-12-17 16:46:46] :     LOG : Aligned 4 and 8 (len 99 145) -> path is of length: 9536
-[2022-12-17 16:46:46] :     LOG : Aligned 24 and 25 (len 139 147) -> path is of length: 9792
-[2022-12-17 16:46:46] :     LOG : Aligned 0 and 26 (len 105 151) -> path is of length: 9792
-[2022-12-17 16:46:46] :     LOG : Aligned 27 and 7 (len 151 152) -> path is of length: 12032
-[2022-12-17 16:46:46] :     LOG : Aligned 9 and 14 (len 129 148) -> path is of length: 9600
-[2022-12-17 16:46:46] :     LOG : Aligned 12 and 13 (len 129 150) -> path is of length: 9728
-[2022-12-17 16:46:46] :     LOG : Aligned 11 and 30 (len 129 150) -> path is of length: 9728
-[2022-12-17 16:46:46] :     LOG : Aligned 10 and 31 (len 128 150) -> path is of length: 9728
-[2022-12-17 16:46:46] :     LOG : Aligned 29 and 32 (len 148 150) -> path is of length: 9728
-[2022-12-17 16:46:46] :     LOG : Aligned 28 and 33 (len 186 150) -> path is of length: 12480
-[2022-12-17 16:46:46] :     LOG : Aligned 34 and 16 (len 193 643) -> path is of length: 44544
-[2022-12-17 16:46:46] :     LOG : Aligned 19 and 20 (len 636 639) -> path is of length: 41088
-[2022-12-17 16:46:46] :     LOG : Aligned 35 and 36 (len 694 640) -> path is of length: 44800
-[2022-12-17 16:46:46] :     LOG : Aligned 17 and 18 (len 639 650) -> path is of length: 41856
-[2022-12-17 16:46:46] :     LOG : Aligned 15 and 38 (len 595 652) -> path is of length: 42176
-[2022-12-17 16:46:46] :     LOG : Aligned 37 and 39 (len 698 657) -> path is of length: 45632
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.01u 00:00:00.01 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
+[2022-12-17 17:06:16] :     LOG : Read 21 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV30_BB30015.fasta.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Building guide tree.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Aligning
+[2022-12-17 17:06:16] :     LOG : Aligned 1 and 2 (len 98 125) -> path is of length: 8576
+[2022-12-17 17:06:16] :     LOG : Aligned 21 and 5 (len 132 97) -> path is of length: 8576
+[2022-12-17 17:06:16] :     LOG : Aligned 3 and 6 (len 139 105) -> path is of length: 9024
+[2022-12-17 17:06:16] :     LOG : Aligned 22 and 23 (len 132 139) -> path is of length: 9024
+[2022-12-17 17:06:16] :     LOG : Aligned 4 and 8 (len 99 145) -> path is of length: 9536
+[2022-12-17 17:06:16] :     LOG : Aligned 24 and 25 (len 139 147) -> path is of length: 9792
+[2022-12-17 17:06:16] :     LOG : Aligned 0 and 26 (len 105 151) -> path is of length: 9792
+[2022-12-17 17:06:16] :     LOG : Aligned 27 and 7 (len 151 152) -> path is of length: 12032
+[2022-12-17 17:06:16] :     LOG : Aligned 9 and 14 (len 129 148) -> path is of length: 9600
+[2022-12-17 17:06:16] :     LOG : Aligned 12 and 13 (len 129 150) -> path is of length: 9728
+[2022-12-17 17:06:16] :     LOG : Aligned 11 and 30 (len 129 150) -> path is of length: 9728
+[2022-12-17 17:06:16] :     LOG : Aligned 10 and 31 (len 128 150) -> path is of length: 9728
+[2022-12-17 17:06:16] :     LOG : Aligned 29 and 32 (len 148 150) -> path is of length: 9728
+[2022-12-17 17:06:16] :     LOG : Aligned 28 and 33 (len 186 150) -> path is of length: 12480
+[2022-12-17 17:06:16] :     LOG : Aligned 34 and 16 (len 193 643) -> path is of length: 44544
+[2022-12-17 17:06:16] :     LOG : Aligned 19 and 20 (len 636 639) -> path is of length: 41088
+[2022-12-17 17:06:16] :     LOG : Aligned 35 and 36 (len 694 640) -> path is of length: 44800
+[2022-12-17 17:06:16] :     LOG : Aligned 17 and 18 (len 639 650) -> path is of length: 41856
+[2022-12-17 17:06:16] :     LOG : Aligned 15 and 38 (len 595 652) -> path is of length: 42176
+[2022-12-17 17:06:16] :     LOG : Aligned 37 and 39 (len 698 657) -> path is of length: 45632
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.01u 00:00:00.01 Elapsed: 00:00:00.00
 >1aac_
 ------------------------------------------------------------
 ------------------------------------------------------------
