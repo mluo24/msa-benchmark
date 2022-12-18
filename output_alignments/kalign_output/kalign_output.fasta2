@@ -14,65 +14,65 @@ Please cite:
   Bioinformatics (2019) 
   https://doi.org/10.1093/bioinformatics/btz795
 
-[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
-[2022-12-17 17:06:16] :     LOG : Read 8 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11002.fasta.
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Building guide tree.
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Aligning
-[2022-12-17 17:06:16] :     LOG : Aligned 0 and 6 (len 58 134) -> path is of length: 8832
-[2022-12-17 17:06:16] :     LOG : Aligned 8 and 7 (len 136 80) -> path is of length: 9024
-[2022-12-17 17:06:16] :     LOG : Aligned 9 and 2 (len 139 83) -> path is of length: 9024
-[2022-12-17 17:06:16] :     LOG : Aligned 1 and 3 (len 193 52) -> path is of length: 12480
-[2022-12-17 17:06:16] :     LOG : Aligned 11 and 4 (len 193 83) -> path is of length: 13248
-[2022-12-17 17:06:16] :     LOG : Aligned 10 and 12 (len 139 205) -> path is of length: 17088
-[2022-12-17 17:06:16] :     LOG : Aligned 13 and 5 (len 265 101) -> path is of length: 17536
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
->1abo_A
+[2022-12-17 19:52:29] :     LOG : Detected protein sequences.
+[2022-12-17 19:52:29] :     LOG : Read 8 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11002.fasta.
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Calculating pairwise distances
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Building guide tree.
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Aligning
+[2022-12-17 19:52:29] :     LOG : Aligned 0 and 6 (len 58 134) -> path is of length: 8832
+[2022-12-17 19:52:29] :     LOG : Aligned 8 and 7 (len 136 80) -> path is of length: 9024
+[2022-12-17 19:52:29] :     LOG : Aligned 9 and 2 (len 139 83) -> path is of length: 9024
+[2022-12-17 19:52:29] :     LOG : Aligned 1 and 3 (len 193 52) -> path is of length: 12480
+[2022-12-17 19:52:29] :     LOG : Aligned 11 and 4 (len 193 83) -> path is of length: 13248
+[2022-12-17 19:52:29] :     LOG : Aligned 10 and 12 (len 139 205) -> path is of length: 17088
+[2022-12-17 19:52:29] :     LOG : Aligned 13 and 5 (len 265 101) -> path is of length: 17536
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+>1ABO_A
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------NLFVALYDFVASGDNTLSITKGEKLRVLGYNHN-------GEW-CE
 AQT---KNGQGWVPSNYITP-VNS------------------------------------
 --------------------------------
->1ycs_B
+>1YCS_B
 PLALLLDSSLEGEFDLVQRIIYEVDDPSLPNDEGITALHNAVCAGHTEIVKFLVQFGVNV
 NAADSDGWTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQ
 FLYGVQEKMGIMNKGVIYALWDYEPQNDDELPMKEGDCMTIIHREDE-------DEIEWW
 WAR--LNDKEGYVPRNLL----GLYP----------------------------------
 --------------------------------
->1pht_
+>1PHT_
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------AEG-YQYRALYDYKKEREEDIDLHLGDILTVNKGSLV-------ALGFSD
 GQE-ARPEEIGWL-NGYNET-TGERGDFPGTYVEYIGRKKISPP----------------
 --------------------------------
->1ihv_A
+>1IHV_A
 ------------------------------------------------------------
 --------------------------------------------------------MIQN
 FRVYYRDSRDPVWKGPAKLLWKGE----GAVVIQDNSDIKVVPRRKA-------KIIRD-
 ------------------------------------------------------------
 --------------------------------
->1bb9_
+>1BB9_
 ------------------------------------------------------------
 ------------------------------------------------------------
 --TTGRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNP-------EEQDEG
 WLM--GVKESDWNQHKELEKCRGVFPENFTERVQ--------------------------
 --------------------------------
->1hjd_A
+>1HJD_A
 ------------------------------------------------------------
 -----------------------------------------------------------A
 DRKLCADQECSHPISMAVALQDYMAPDCRFLTIHRGQVVYVFSKLKGRGRLFWGGSVQGD
 YYG-DLAARLGYFPSSIVREDQTLKPGKVDVKTDKWDFYCQ-------------------
 --------------------------------
->1ov3_A
+>1OV3_A
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----LGSPEFIILQTYRAIADYEKTSGSEMALSTGDVVEVVEKSES-------GWWFCQ
 MKA---K--RGWIPASFLEP-LDSPDETEDPEPNYAGEPYVAIKAYTAVEGDEVSLLEGE
 AVEVIHKLLDGWWVIRKDDVTGYFPSMYLQKS
->1ue9_A
+>1UE9_A
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------GSSGSSG-EIAQVTSAYVASGSEQLSLAPGQLILILKKNTS-------GWWQGE

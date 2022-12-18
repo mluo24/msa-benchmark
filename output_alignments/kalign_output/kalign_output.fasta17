@@ -14,30 +14,30 @@ Please cite:
   Bioinformatics (2019) 
   https://doi.org/10.1093/bioinformatics/btz795
 
-[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
-[2022-12-17 17:06:16] :     LOG : Read 15 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV30_BB30017.fasta.
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Building guide tree.
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 17:06:16] :     LOG : Aligning
-[2022-12-17 17:06:16] :     LOG : Aligned 0 and 1 (len 309 331) -> path is of length: 21312
-[2022-12-17 17:06:16] :     LOG : Aligned 15 and 2 (len 331 338) -> path is of length: 22208
-[2022-12-17 17:06:16] :     LOG : Aligned 5 and 6 (len 252 252) -> path is of length: 16576
-[2022-12-17 17:06:16] :     LOG : Aligned 3 and 17 (len 231 257) -> path is of length: 16768
-[2022-12-17 17:06:16] :     LOG : Aligned 18 and 4 (len 260 231) -> path is of length: 17088
-[2022-12-17 17:06:16] :     LOG : Aligned 13 and 14 (len 350 352) -> path is of length: 22912
-[2022-12-17 17:06:16] :     LOG : Aligned 19 and 20 (len 265 356) -> path is of length: 22912
-[2022-12-17 17:06:16] :     LOG : Aligned 11 and 12 (len 309 338) -> path is of length: 21760
-[2022-12-17 17:06:16] :     LOG : Aligned 21 and 22 (len 356 338) -> path is of length: 23168
-[2022-12-17 17:06:16] :     LOG : Aligned 16 and 23 (len 345 360) -> path is of length: 24512
-[2022-12-17 17:06:16] :     LOG : Aligned 7 and 8 (len 322 350) -> path is of length: 22528
-[2022-12-17 17:06:16] :     LOG : Aligned 25 and 9 (len 350 360) -> path is of length: 23232
-[2022-12-17 17:06:16] :     LOG : Aligned 26 and 10 (len 361 370) -> path is of length: 24512
-[2022-12-17 17:06:16] :     LOG : Aligned 24 and 27 (len 381 381) -> path is of length: 25984
-[2022-12-17 17:06:16] :     LOG : CPU Time: 0.01u 00:00:00.00 Elapsed: 00:00:00.00
->1mrp_
+[2022-12-17 19:52:29] :     LOG : Detected protein sequences.
+[2022-12-17 19:52:29] :     LOG : Read 15 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV30_BB30017.fasta.
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Calculating pairwise distances
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Building guide tree.
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 19:52:29] :     LOG : Aligning
+[2022-12-17 19:52:29] :     LOG : Aligned 0 and 1 (len 309 331) -> path is of length: 21312
+[2022-12-17 19:52:29] :     LOG : Aligned 15 and 2 (len 331 338) -> path is of length: 22208
+[2022-12-17 19:52:29] :     LOG : Aligned 5 and 6 (len 252 252) -> path is of length: 16576
+[2022-12-17 19:52:29] :     LOG : Aligned 3 and 17 (len 231 257) -> path is of length: 16768
+[2022-12-17 19:52:29] :     LOG : Aligned 18 and 4 (len 260 231) -> path is of length: 17088
+[2022-12-17 19:52:29] :     LOG : Aligned 13 and 14 (len 350 352) -> path is of length: 22912
+[2022-12-17 19:52:29] :     LOG : Aligned 19 and 20 (len 265 356) -> path is of length: 22912
+[2022-12-17 19:52:29] :     LOG : Aligned 11 and 12 (len 309 338) -> path is of length: 21760
+[2022-12-17 19:52:29] :     LOG : Aligned 21 and 22 (len 356 338) -> path is of length: 23168
+[2022-12-17 19:52:29] :     LOG : Aligned 16 and 23 (len 345 360) -> path is of length: 24512
+[2022-12-17 19:52:29] :     LOG : Aligned 7 and 8 (len 322 350) -> path is of length: 22528
+[2022-12-17 19:52:29] :     LOG : Aligned 25 and 9 (len 350 360) -> path is of length: 23232
+[2022-12-17 19:52:29] :     LOG : Aligned 26 and 10 (len 361 370) -> path is of length: 24512
+[2022-12-17 19:52:29] :     LOG : Aligned 24 and 27 (len 381 381) -> path is of length: 25984
+[2022-12-17 19:52:29] :     LOG : CPU Time: 0.01u 00:00:00.00 Elapsed: 00:00:00.00
+>1MRP_
 ---------------------------------------------------DITVYNGQH
 KEAATAVAKAF-EQETGIKVTL--NSGKSEQLAGQLK-EEGDKTPADVFYTEQTATFADL
 SEAGL-LAPISEQTIQQTAQK-------GVPLAPKKDWIALSGRSRVVVYDHTKLS----
@@ -61,7 +61,7 @@ DNAKL-FAPLDAATLAQVEPQ-------YRPSHGR--WIGIAARSTVFVYNPAKLS----
 -AMKTNFTAYKGNST--VMKAVNAGQVDSGVIYHYYPFVDGAKTGENSN-NIKLYYFKHQ
 DPGAFVSISGGGVLASSKHQQQAQAFIKWITGKQGQEILRTNNAFEYAV-GVGAASNPKL
 VPLKDLDAPKVDAAQ-LNSKK-VVELMTEAGLL-----------
->1atg_
+>1ATG_
 ----------------------------------------------ELKVVTATNFLGTL
 EQL----AGQF-AKQTGHAVVI--SSGSSGPVYAQIV----NGAPYNVFFSADEKSPEKL
 DNQGF-ALPGSRFTYAIGKLV-------LWSAKPG----LVDNQGKVLAGNGWR------
@@ -69,7 +69,7 @@ DNQGF-ALPGSRFTYAIGKLV-------LWSAKPG----LVDNQGKVLAGNGWR------
 ------ERIVEANSVGQAHSQTASGAADLGFVALAQIIQAAAKIPGSHW-FPPANYYEPI
 VQQAVITKSTA---EKANAE----QFMSWMKGPKAVAIIKAA---GYV--LPQ-------
 --------------------------------------------
->1wod_
+>1WOD_
 ---------------------------------------------GKITVFAAASLTNAM
 QDI----ATQF-KKEKGVDVVS--SFASSSTLARQIE----AGAPADLFISADQKWMDYA
 VDKKA-IDTATRQTLLGNSLV-------VVAPKAS----VQKDFTIDSKTNWTSLL----
@@ -93,7 +93,7 @@ VEEGY-AVPGSDFTYAVGKLV-------LWSADPA----RVDDKGAVLKTD-LE------
 ------PKLVTGKSISQAYEFAATGNAPVGFVAYSQVI--GK-EGGSSW-MVPQDLYKPI
 KQDAVLLKTGA---EDAAAK----AYLDFLKTPEALEIIRKY---GYV--TE--------
 --------------------------------------------
->1pot_
+>1POT_
 --------------------------------------------------NNTLYFYNWT
 EYVPPGLLEQF-TKETGIKVIYS-TYESNETMYAKLK-TYKDGA-YDLVVPS-TYYVDKM
 RKEGM-IQKIDKSKLTNFSNLDPDMLN--KPFDPNNDYSIPYIWGATAIGVNGDAV----
@@ -125,7 +125,7 @@ GENAPVDSWDLILKPENLEKLKSCGVSFLDAPEEVFATVLNYLGKDPNSTKADDYTGPAT
 DLLLKLRPNIRYFHSSQYINDLANGDICVAIGWAGDVWQASNRAKEAKN-GVNVSFSIPK
 EGAMAFFDVFA-MPADAKNKDEAYQFLNYLLRPDVVAHISDHV--FYAN-ANKAATPLVS
 AEVRENPGIYPPADVRAKLFTLKVQDPKIDRVRTRAWTKVKSGK
->1sbp_
+>1SBP_
 -------------------------------------------KDIQLLNVSYDPTRELY
 EQYNKAFSAHW-KQETGDNVVIDQSHGGSGKQATSVI----NGIEADTVTLALAYDVNAI
 AERGR-IDKNWIKRLPDDSAP-------YTSTIVF----LVRKGNPKQIHDWNDLI----
