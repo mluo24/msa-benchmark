@@ -1,0 +1,7 @@
+SP-Score NaN
+Modeler NaN
+SPFN NaN
+SPFP NaN
+Compression (naive) NaN
+Compression NaN
+TC NaN
