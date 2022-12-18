@@ -41,12 +41,23 @@ def main():
 
     print("done")
 
-    # close files
-    # script_out.close()
-
 
 def muscle():
-    pass
+    input_align = get_alignments(INPUT_ALIGNMENT_DIR)
+
+    for input_file in input_align:
+        start = time.time()
+        os.system(f"../muscle-5.1.0/src/Darwin/muscle -align {INPUT_ALIGNMENT_DIR}/{input_file} -output {OUT_FASTA_DIR}/{input_file}_muscle.fasta")
+        end = time.time()
+        time_elapsed_ms = (end - start) * 1000 
+        print(f'Ran for {time_elapsed_ms} ms for {input_file}') 
+
+    for in_file in input_align:
+        os.system(f"java -jar ../FastSP/FastSP.jar -r {REF_ALIGNMENT_DIR}/{in_file.split('.')[0]}_r.fasta -e {OUT_FASTA_DIR}/{in_file}_muscle.fasta")
+        print() 
+    
+    print("done")
 
 if __name__ == "__main__":
-    main()
+    # main()
+    muscle()
