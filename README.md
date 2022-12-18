@@ -13,7 +13,7 @@ Note that all of these steps (and the scripts themselves) have been tested on ma
 2. If you don't have a version of the C compiler that didn't come shipped with your Mac, install [homebrew](https://brew.sh/) and run `brew install gcc@11` and `brew install gcc` to install the C compiler that is necessary for a few of these algorithms to run.
 
 3. Download the libraries for the following algorithms (they all need to be the command line versions):
-    * ClustalW: Dowload the code for ClustalW from the following link: http://www.clustal.org/download/current/ ensusing that you download the tar.gz file. From there, compile the program by following the instructions in the README file in the 'clustalw-2.1' folder.
+    * ClustalW: Dowload the code for ClustalW from the following link: http://www.clustal.org/download/current/ ensusing that you download the tar.gz file. From there, compile the program by following the instructions in the README file in the `clustalw-2.1` folder.
     * MUSCLE: Download the code from the following GitHub repo: https://github.com/rcedgar/muscle. Go into the src directory and run `make`. There should be an executable file that will be generated inside of the `Darwin/` folder called `muscle`. Run the executable inside the folder to make sure it works (`./muscle -h` after switching to the directory for example).
     * MAFFT: Download the MAFFT program from the following link: https://mafft.cbrc.jp/alignment/software/
     * KALIGN: Download the tar.gz file from the following link: https://github.com/TimoLassmann/kalign/releases under minor feature update. Then, follow all of the installation instructions underneath the heading "Installation" in this link: https://github.com/TimoLassmann/kalign. 
