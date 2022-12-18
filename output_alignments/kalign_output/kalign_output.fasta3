@@ -14,18 +14,18 @@ Please cite:
   Bioinformatics (2019) 
   https://doi.org/10.1093/bioinformatics/btz795
 
-[2022-12-17 16:46:46] :     LOG : Detected protein sequences.
-[2022-12-17 16:46:46] :     LOG : Read 4 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11003.fasta.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Calculating pairwise distances
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Building guide tree.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Aligning
-[2022-12-17 16:46:46] :     LOG : Aligned 1 and 3 (len 516 414) -> path is of length: 35136
-[2022-12-17 16:46:46] :     LOG : Aligned 0 and 4 (len 446 547) -> path is of length: 36096
-[2022-12-17 16:46:46] :     LOG : Aligned 5 and 2 (len 562 504) -> path is of length: 37568
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
+[2022-12-17 17:06:16] :     LOG : Read 4 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11003.fasta.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Building guide tree.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Aligning
+[2022-12-17 17:06:16] :     LOG : Aligned 1 and 3 (len 516 414) -> path is of length: 35136
+[2022-12-17 17:06:16] :     LOG : Aligned 0 and 4 (len 446 547) -> path is of length: 36096
+[2022-12-17 17:06:16] :     LOG : Aligned 5 and 2 (len 562 504) -> path is of length: 37568
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
 >1ad3_A
 ------------------------------------------------------------
 -----------------SISDTVKRAREAFNSGKTRSLQFRIQQLEALQRMINENLKSIS

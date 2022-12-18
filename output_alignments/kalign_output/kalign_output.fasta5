@@ -14,28 +14,28 @@ Please cite:
   Bioinformatics (2019) 
   https://doi.org/10.1093/bioinformatics/btz795
 
-[2022-12-17 16:46:46] :     LOG : Detected protein sequences.
-[2022-12-17 16:46:46] :     LOG : Read 14 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11005.fasta.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Calculating pairwise distances
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Building guide tree.
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
-[2022-12-17 16:46:46] :     LOG : Aligning
-[2022-12-17 16:46:46] :     LOG : Aligned 9 and 10 (len 354 329) -> path is of length: 23488
-[2022-12-17 16:46:46] :     LOG : Aligned 8 and 14 (len 382 365) -> path is of length: 25152
-[2022-12-17 16:46:46] :     LOG : Aligned 15 and 11 (len 391 343) -> path is of length: 25600
-[2022-12-17 16:46:46] :     LOG : Aligned 1 and 16 (len 355 398) -> path is of length: 25728
-[2022-12-17 16:46:46] :     LOG : Aligned 17 and 3 (len 400 361) -> path is of length: 26176
-[2022-12-17 16:46:46] :     LOG : Aligned 0 and 18 (len 421 407) -> path is of length: 27904
-[2022-12-17 16:46:46] :     LOG : Aligned 19 and 13 (len 434 412) -> path is of length: 29376
-[2022-12-17 16:46:46] :     LOG : Aligned 20 and 5 (len 457 431) -> path is of length: 31296
-[2022-12-17 16:46:46] :     LOG : Aligned 21 and 4 (len 487 429) -> path is of length: 31360
-[2022-12-17 16:46:46] :     LOG : Aligned 22 and 2 (len 488 412) -> path is of length: 31360
-[2022-12-17 16:46:46] :     LOG : Aligned 23 and 6 (len 488 427) -> path is of length: 31616
-[2022-12-17 16:46:46] :     LOG : Aligned 24 and 12 (len 492 465) -> path is of length: 34368
-[2022-12-17 16:46:46] :     LOG : Aligned 25 and 7 (len 535 461) -> path is of length: 36672
-[2022-12-17 16:46:46] :     LOG : CPU Time: 0.01u 00:00:00.01 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Detected protein sequences.
+[2022-12-17 17:06:16] :     LOG : Read 14 sequences from /Users/parthvakil/Cornell CS/CS-4775/msa-benchmark/input_alignments/RV11_BB11005.fasta.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Calculating pairwise distances
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Building guide tree.
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.00u 00:00:00.00 Elapsed: 00:00:00.00
+[2022-12-17 17:06:16] :     LOG : Aligning
+[2022-12-17 17:06:16] :     LOG : Aligned 9 and 10 (len 354 329) -> path is of length: 23488
+[2022-12-17 17:06:16] :     LOG : Aligned 8 and 14 (len 382 365) -> path is of length: 25152
+[2022-12-17 17:06:16] :     LOG : Aligned 15 and 11 (len 391 343) -> path is of length: 25600
+[2022-12-17 17:06:16] :     LOG : Aligned 1 and 16 (len 355 398) -> path is of length: 25728
+[2022-12-17 17:06:16] :     LOG : Aligned 17 and 3 (len 400 361) -> path is of length: 26176
+[2022-12-17 17:06:16] :     LOG : Aligned 0 and 18 (len 421 407) -> path is of length: 27904
+[2022-12-17 17:06:16] :     LOG : Aligned 19 and 13 (len 434 412) -> path is of length: 29376
+[2022-12-17 17:06:16] :     LOG : Aligned 20 and 5 (len 457 431) -> path is of length: 31296
+[2022-12-17 17:06:16] :     LOG : Aligned 21 and 4 (len 487 429) -> path is of length: 31360
+[2022-12-17 17:06:16] :     LOG : Aligned 22 and 2 (len 488 412) -> path is of length: 31360
+[2022-12-17 17:06:16] :     LOG : Aligned 23 and 6 (len 488 427) -> path is of length: 31616
+[2022-12-17 17:06:16] :     LOG : Aligned 24 and 12 (len 492 465) -> path is of length: 34368
+[2022-12-17 17:06:16] :     LOG : Aligned 25 and 7 (len 535 461) -> path is of length: 36672
+[2022-12-17 17:06:16] :     LOG : CPU Time: 0.01u 00:00:00.01 Elapsed: 00:00:00.00
 >1b8g_A
 ----------------------M--LSRNATSSYFLGWQEYEKNPYHEVHNTNGIIQMGL
 AENQLCFDLLESWLAKNPEAAAFKKNGESIFAEL--ALFQDYHGLPAFKK-----AMVDF
